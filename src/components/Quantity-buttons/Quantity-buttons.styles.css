@@ -1,0 +1,16 @@
+.quantity-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quantity-button {
+    padding: 0 10px;
+    margin: 6px;
+    background-color: #f8f5d6;
+}
+
+.quantity-button:hover {
+    transition: all 0.2s ease-in-out; 
+    background-color: #f8ef8d;
+}

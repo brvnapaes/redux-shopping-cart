@@ -1,0 +1,16 @@
+.filter-button {
+    padding: 6px 10px;
+    margin: 6px;
+    border-radius: 6px;
+    background-color: #f8f5d6;
+    cursor: pointer;
+}
+
+.filter-button-active {
+    background-color: #f8ef8d;
+}
+
+.filter-button:hover {
+    transition: all 0.2s ease-in-out; 
+    background-color: #f8ef8d;
+}
