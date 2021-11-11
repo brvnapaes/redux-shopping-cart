@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Products from './components/Products/Products';
 import Filters from './components/Filters/Filters';
